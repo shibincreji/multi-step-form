@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/shibincreji/multi-step-form)
--   Live Site URL: [Netlify](https://adramelech-multi-step-form.netlify.app)
+-   Live Site URL: [Netlify](https://mymultistepform.netlify.app)
 
 ## My process
 
